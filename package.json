@@ -1,0 +1,23 @@
+{
+  "name": "sorting-algorithms",
+  "version": "0.0.1",
+  "description": "Various sorting in JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sorting",
+    "js",
+    "promises",
+    "es6",
+    "tests"
+  ],
+  "author": "aikaramba",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "present": "^1.0.0"
+  }
+}
